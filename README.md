@@ -1,4 +1,4 @@
-# kasagi-labo-assignment
+# description
 
 There are three files: `challenge_A.js`, `challenge_B`, and `Dockerfile`.  
 - `challenge_A.js` is for the first challenge.  
